@@ -1,0 +1,10 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/bachm/Documents/Projekty/Zynq/2.Programy/PS_PL/Vitis/platform/zynq_fsbl/fsbl_handoff.S
+
